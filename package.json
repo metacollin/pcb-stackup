@@ -69,7 +69,7 @@
   },
   "dependencies": {
     "gerber-to-svg": "^2.1.0",
-    "pcb-stackup-core": "git://github.com/MacroFab/pcb-stackup-core.git",
+    "pcb-stackup-core": "https://github.com/MacroFab/pcb-stackup-core.git",
     "shortid": "^2.2.6",
     "whats-that-gerber": "^2.1.0"
   }
