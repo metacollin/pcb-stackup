@@ -68,7 +68,7 @@
     "zuul-ngrok": "^4.0.0"
   },
   "dependencies": {
-    "gerber-to-svg": "^2.1.0",
+    "gerber-to-svg": "^4.2.8",
     "pcb-stackup-core": "https://github.com/MacroFab/pcb-stackup-core.git",
     "shortid": "^2.2.6",
     "whats-that-gerber": "^2.1.0"
