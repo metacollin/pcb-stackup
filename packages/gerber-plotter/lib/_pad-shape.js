@@ -251,7 +251,7 @@ var runMacro = function(mods, blocks) {
             return v
           }
         }
-      }, {})
+      }, {type: 'comment'})
     }
 
     if (block.exp != null && block.exp !== exposure) {
